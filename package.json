@@ -21,7 +21,6 @@
     "marked": "^0.3.3",
     "html-pdf": "^1.0.0",
     "nunjucks": "^1.2.0",
-    "gulp": "^3.8.11",
     "vinyl-fs": "^0.3.13",
     "map-stream": "0.0.5"
   }
